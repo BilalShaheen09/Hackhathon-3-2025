@@ -29,7 +29,8 @@ const nextConfig: NextConfig = {
       "c-hackathon-2-dec.vercel.app",
       "www.google.com", 
       "www.runnerz.pk",
-      "thumblr.uniid.it"
+      "thumblr.uniid.it",
+     "www.julke.pk"
     ],
   },
   eslint: {
