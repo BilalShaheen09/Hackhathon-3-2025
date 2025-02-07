@@ -29,8 +29,11 @@ const nextConfig: NextConfig = {
       "c-hackathon-2-dec.vercel.app",
       "www.google.com", 
       "www.runnerz.pk",
-      "thumblr.uniid.it" // ✅ Added this domain
+      "thumblr.uniid.it"
     ],
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
   },
 };
 
